@@ -1,0 +1,9 @@
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\bin\Debug\ArduinoMotorController.exe.config
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\bin\Debug\ArduinoMotorController.exe
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\bin\Debug\ArduinoMotorController.pdb
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\ArduinoMotorController.csprojResolveAssemblyReference.cache
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\WindowsFormsApplication1.AMC.resources
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\ArduinoMotorController.Properties.Resources.resources
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\ArduinoMotorController.csproj.GenerateResource.Cache
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\ArduinoMotorController.exe
+c:\users\ilyabot\documents\visual studio 2013\Projects\ArduinoMotorController\ArduinoMotorController\obj\Debug\ArduinoMotorController.pdb
